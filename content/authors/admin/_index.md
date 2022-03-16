@@ -42,7 +42,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Wenlong Deng is an incoming Ph.D. student at University of British Columbia(UBC) TEA lab and under supervision of Prof. Xiaoxiao Li and Prof. Christos Thrampoulidis. Please find my CV {{< staticref "uploads/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}. if you are interested.
+Wenlong Deng is an incoming Ph.D. student at University of British Columbia(UBC) TEA lab and under supervision of Prof. Xiaoxiao Li and Prof. Christos Thrampoulidis. Please find my CV {{< staticref "assets/media/dengwenlong_cv_phd.pdf" "newtab" >}}here{{< /staticref >}}. if you are interested.
 
 His research interests include Robustness and Fairness in ML. He believe robustness is essential to practical implementation of AI algorithm. Fairness will break the bias loop from data, algorithm to human feedback. 
 
