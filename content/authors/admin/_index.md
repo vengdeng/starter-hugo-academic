@@ -1,7 +1,7 @@
 ---
 title: Wenlong Deng
 role: Ph.D. Student
-avatar_filename: 飞书20220219-170440.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Robustness and Fairness in ML. I also skilled
   in Computer Vision and Recommendation System
 interests:
