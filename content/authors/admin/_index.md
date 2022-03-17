@@ -1,6 +1,6 @@
 ---
 title: Wenlong Deng
-role: Ph.D. Student AT UBC
+role: Ph.D. Student
 avatar_filename: 飞书20220219-170440.jpg
 bio: My research interests include Robustness and Fairness in ML. I also skilled
   in Computer Vision and Recommendation System
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of British Columbia
+    url: https://www.ubc.ca/
 education:
   courses:
     - course: PhD in Artificial Intelligence
