@@ -20,9 +20,7 @@ authors:
   - Alexandre Alahi
 author_notes: []
 publication: In IEEE International Conference on Robotics and Automation
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: In *ICRA*
@@ -39,7 +37,7 @@ image:
   preview_only: false
 date: 2020-10-01T09:04:26.897Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
