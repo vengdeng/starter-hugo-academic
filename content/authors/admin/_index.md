@@ -26,15 +26,15 @@ organizations:
     url: https://www.ubc.ca/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in ECE
+      institution: University of British Columbia
+      year: ""
+    - course: MSc in Electrical Engineering
+      institution: Swiss Federal Institutes of Technology in Lausanne
+      year: ""
+    - course: B.E. in Electronic Information Engineering
+      institution: University of Electronic Science and Technology of China
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
