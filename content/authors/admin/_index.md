@@ -44,10 +44,10 @@ highlight_name: true
 ---
 Wenlong Deng is an incoming Ph.D. student at University of British Columbia(UBC) TEA lab and under supervision of Prof. Xiaoxiao Li and Prof. Christos Thrampoulidis. Please find my CV {{< staticref "assets/media/dengwenlong_cv_phd.pdf" "newtab" >}}here{{< /staticref >}}. if you are interested.
 
-His research interests include Robustness and Fairness in ML. He believe robustness is essential to practical implementation of AI algorithm. Fairness will break the bias loop from data, algorithm to human feedback. 
+His research interests include Robustness and Fairness in ML. He believe robustness is essential to practical implementation of AI algorithm. Fairness will break the bias loop from data, algorithm to human feedback. Please feel free to reach me for discussion!
 
-Before that, he spent two years at TikTok for recommendation system where he focus on: 1) enhancing the optimization ability of a network. 2) break the feedback loop of recommendation system to increase exploration ability. He obtained MSc. in Information Technology from EPFL under the supervision of Prof. Alexandre Alahi and graduated with hour
+Before that, he spent two years at TikTok for recommendation system where he focus on: 1) enhancing the optimization ability of a network. 2) break the feedback loop of recommendation system to increase exploration ability.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He obtained MSc. in Information Technology from EPFL under the supervision of {{< staticref "https://www.epfl.ch/labs/vita/" "newtab" >}}Prof. Alexandre Alahi{{< /staticref >}}  where he utilized uncertainty and regression information jointly locates and estimates human body poses in 3D. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+He also graduated with honors from {{< staticref "https://en.uestc.edu.cn/About_UESTC/Why_UESTC.htm" "newtab" >}}University of Electronic Science and Technology of China{{< /staticref >}}.
