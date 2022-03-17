@@ -48,6 +48,6 @@ His research interests include Robustness and Fairness in ML. He believe robustn
 
 Before that, he spent two years at TikTok for recommendation system where he focus on: 1) enhancing the optimization ability of a network. 2) break the feedback loop of recommendation system to increase exploration ability.
 
-He obtained MSc. in Information Technology from EPFL under the supervision of {{< staticref "https://www.epfl.ch/labs/vita/" "newtab" >}}Prof. Alexandre Alahi{{< /staticref >}}  where he utilized uncertainty and regression information jointly locates and estimates human body poses in 3D. 
+He obtained MSc. in Information Technology from EPFL under the supervision of {{< staticref "https://people.epfl.ch/alexandre.alahi?lang=en" "newtab" >}}Prof. Alexandre Alahi{{< /staticref >}}  where he utilized uncertainty and regression information jointly locates and estimates human body poses in 3D. Additionally, he did several industry projects in developing vision algorithm  at  {{< staticref "https://www.nii.ac.jp/" "newtab" >}} National Institute of Informatics{{< /staticref >}} supervised by [](https://people.epfl.ch/alexandre.alahi/?lang=en){< staticref "http://research.nii.ac.jp/~prendinger/" "newtab" >}}Prof. Helmut Prendinger{{< /staticref >}}
 
-He also graduated with honors from {{< staticref "https://en.uestc.edu.cn/About_UESTC/Why_UESTC.htm" "newtab" >}}University of Electronic Science and Technology of China{{< /staticref >}}.
+He did his bachelor study in Electronic Information Technology at {{< staticref "https://en.uestc.edu.cn/About_UESTC/Why_UESTC.htm" "newtab" >}}University of Electronic Science and Technology of China{{< /staticref >}} and graduated with honor (Top 5%).
