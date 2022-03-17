@@ -5,9 +5,9 @@ avatar_filename: 飞书20220219-170440.jpg
 bio: My research interests include Robustness and Fairness in ML. I also skilled
   in Computer Vision and Recommendation System
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robustness
+  - Fairness
+  - ComputerVision
 social:
   - icon: envelope
     icon_pack: fas
